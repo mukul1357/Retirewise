@@ -1,0 +1,667 @@
+[
+    {
+    "portfolios": [
+      {
+        "name": "Traditional Conservative Income Portfolio",
+        "allocation": {
+          "Investment-Grade Corporate Bonds": 40,
+          "Dividend-Paying Blue-Chip Stocks": 25,
+          "Treasury Bonds": 30,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "This portfolio emphasizes stable income through a mix of high-quality corporate bonds, reliable dividend-paying stocks, and the safety of Treasury bonds."
+      },
+      {
+        "name": "Global Income Diversification",
+        "allocation": {
+          "International Bond Funds": 35,
+          "Utilities and Consumer Staples Stocks": 20,
+          "U.S. Treasury Inflation-Protected Securities (TIPS)": 25,
+          "Money Market Funds": 20
+        },
+        "description": "A conservative approach with an international touch, including global bonds and defensive stocks from utility and consumer staples sectors."
+      },
+      {
+        "name": "Municipal Bond Focus",
+        "allocation": {
+          "Municipal Bonds": 50,
+          "High-Dividend Utility Stocks": 15,
+          "Short-Term Treasury Bonds": 30,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Concentrates on tax-free income by investing primarily in municipal bonds, complemented by a mix of utility stocks and short-term Treasuries."
+      },
+      {
+        "name": "Low Volatility Income",
+        "allocation": {
+          "Low Volatility Dividend ETFs": 40,
+          "Investment-Grade Corporate Bonds": 30,
+          "Treasury Inflation-Protected Securities (TIPS)": 25,
+          "Money Market Funds": 5
+        },
+        "description": "Aiming for income stability through low volatility dividend ETFs, combined with a balanced mix of corporate bonds and TIPS."
+      },
+      {
+        "name": "High-Quality Dividend Growth",
+        "allocation": {
+          "Dividend Growth Stocks": 45,
+          "U.S. Treasury Bonds": 25,
+          "Preferred Stocks": 20,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Focused on long-term income growth, this portfolio invests in companies with a history of increasing dividends, along with stable bonds and preferred stocks."
+      },
+      {
+        "name": "Fixed Annuity and Conservative Mix",
+        "allocation": {
+          "Fixed Annuities": 50,
+          "Investment-Grade Corporate Bonds": 20,
+          "Money Market Funds": 20,
+          "Short-Term Treasury Bonds": 10
+        },
+        "description": "Integrating fixed annuities for guaranteed income with a blend of conservative fixed-income instruments for additional stability."
+      },
+      {
+        "name": "Defensive Sector Rotation",
+        "allocation": {
+          "Defensive Sector ETFs (Healthcare, Utilities)": 40,
+          "Municipal Bonds": 25,
+          "Treasury Bonds": 25,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Rotating investments among defensive sectors like healthcare and utilities, combined with a mix of municipal and Treasury bonds."
+      },
+      {
+        "name": "Income with Gold Hedge",
+        "allocation": {
+          "High-Quality Corporate Bonds": 30,
+          "Dividend-Paying Gold Mining Stocks": 20,
+          "Treasury Inflation-Protected Securities (TIPS)": 35,
+          "Money Market Funds": 15
+        },
+        "description": "Balancing income generation with a partial hedge against inflation through gold mining stocks and TIPS."
+      },
+      {
+        "name": "Short-Duration Bond Focus",
+        "allocation": {
+          "Short-Term Corporate Bonds": 45,
+          "Dividend Aristocrat Stocks": 20,
+          "U.S. Treasury Bonds": 25,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Emphasizing short-duration bonds for reduced interest rate risk, combined with dividend aristocrat stocks for income stability."
+      },
+      {
+        "name": "Quality Dividend ETFs",
+        "allocation": {
+          "Quality Dividend ETFs": 50,
+          "Municipal Bonds": 20,
+          "Treasury Bonds": 25,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Investing in ETFs that focus on high-quality dividend-paying stocks, supplemented by municipal and Treasury bonds for added stability."
+      }
+    ]
+  },
+  
+  {
+    "portfolios": [
+      {
+        "name": "Sustainable Income Portfolio",
+        "allocation": {
+          "Sustainable Dividend ETFs": 35,
+          "Green Bonds": 25,
+          "Treasury Bonds": 30,
+          "Money Market Funds": 10
+        },
+        "description": "Emphasizes sustainability by investing in companies with a commitment to environmental, social, and governance (ESG) principles, along with green bonds."
+      },
+      {
+        "name": "Quality Preferred Stock Mix",
+        "allocation": {
+          "Preferred Stocks": 40,
+          "Investment-Grade Corporate Bonds": 30,
+          "U.S. Treasury Bonds": 20,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Focuses on preferred stocks for higher yields and stability, complemented by investment-grade corporate and Treasury bonds."
+      },
+      {
+        "name": "Defensive Dividend Aristocrats",
+        "allocation": {
+          "Defensive Dividend Aristocrat ETFs": 40,
+          "Municipal Bonds": 25,
+          "Treasury Inflation-Protected Securities (TIPS)": 25,
+          "Money Market Funds": 10
+        },
+        "description": "Invests in Dividend Aristocrats known for consistent dividend payments, coupled with municipal bonds and TIPS for added stability."
+      },
+      {
+        "name": "Global Dividend Growth",
+        "allocation": {
+          "Global Dividend Growth Stocks": 35,
+          "International Bonds": 25,
+          "Treasury Bonds": 30,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Seeks income growth globally by investing in companies with a history of increasing dividends and a mix of international and domestic bonds."
+      },
+      {
+        "name": "Treasury-Heavy Income Mix",
+        "allocation": {
+          "U.S. Treasury Bonds": 50,
+          "Dividend-Paying Blue-Chip Stocks": 20,
+          "Municipal Bonds": 20,
+          "Money Market Funds": 10
+        },
+        "description": "Prioritizes safety with a significant allocation to U.S. Treasury bonds, complemented by blue-chip stocks and municipal bonds."
+      },
+      {
+        "name": "Consumer Defensive Stocks and Bonds",
+        "allocation": {
+          "Consumer Defensive Stocks": 30,
+          "Investment-Grade Corporate Bonds": 30,
+          "Treasury Inflation-Protected Securities (TIPS)": 25,
+          "Cash or Cash Equivalents": 15
+        },
+        "description": "Invests in consumer defensive stocks for stability, alongside a mix of investment-grade corporate bonds and TIPS."
+      },
+      {
+        "name": "Utilities and Real Assets",
+        "allocation": {
+          "Utilities Stocks": 25,
+          "Real Assets ETFs (Infrastructure, Real Estate)": 30,
+          "U.S. Treasury Bonds": 30,
+          "Cash or Cash Equivalents": 15
+        },
+        "description": "Focuses on utilities for stability and real assets for inflation protection, combined with U.S. Treasury bonds."
+      },
+      {
+        "name": "Stable Income REITs",
+        "allocation": {
+          "Real Estate Investment Trusts (REITs)": 40,
+          "Municipal Bonds": 25,
+          "Treasury Bonds": 25,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Emphasizes income from real estate through REITs, complemented by municipal and Treasury bonds."
+      },
+      {
+        "name": "Low-Correlation Diversification",
+        "allocation": {
+          "Low-Correlation Asset ETFs (Gold, Utilities)": 35,
+          "Short-Term Corporate Bonds": 25,
+          "Treasury Bonds": 30,
+          "Money Market Funds": 10
+        },
+        "description": "Aims to reduce portfolio volatility by including assets with low correlation to traditional stocks and bonds."
+      },
+      {
+        "name": "Absolute Return Strategy",
+        "allocation": {
+          "Absolute Return Funds": 40,
+          "Dividend-Paying Preferred Stocks": 20,
+          "Treasury Inflation-Protected Securities (TIPS)": 25,
+          "Cash or Cash Equivalents": 15
+        },
+        "description": "Integrates absolute return funds seeking positive returns regardless of market conditions, along with preferred stocks and TIPS for income and stability."
+      }
+    ]
+  }, 
+  {
+    "portfolios": [
+      {
+        "name": "Global Equity and Income Mix",
+        "allocation": {
+          "Global Equity ETFs": 30,
+          "Intermediate-Term Bond ETFs": 30,
+          "Real Estate Investment Trusts (REITs)": 20,
+          "Cash or Cash Equivalents": 10,
+          "Gold ETFs": 10
+        },
+        "description": "A globally diversified approach with exposure to equities, bonds, real estate, and gold for added diversification and risk mitigation."
+      },
+      {
+        "name": "Dynamic Sector Rotation",
+        "allocation": {
+          "Sector Rotation ETFs": 25,
+          "U.S. Large-Cap Stocks": 30,
+          "Intermediate-Term Corporate Bonds": 25,
+          "Real Estate Investment Trusts (REITs)": 15,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Utilizes sector rotation to adjust equity exposure based on market conditions, combined with a mix of corporate bonds and REITs."
+      },
+      {
+        "name": "Dividend Growth and International Mix",
+        "allocation": {
+          "Dividend Growth Stocks": 25,
+          "International Equity ETFs": 20,
+          "Balanced Target-Date Fund": 30,
+          "Intermediate-Term Treasury Bonds": 20,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Focuses on dividend growth, international exposure, and a balanced target-date fund for a well-rounded approach."
+      },
+      {
+        "name": "Low Volatility and Quality",
+        "allocation": {
+          "Low Volatility ETFs": 30,
+          "Quality Dividend ETFs": 25,
+          "U.S. Large-Cap Stocks": 25,
+          "Intermediate-Term Bond ETFs": 15,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Combines low volatility and quality dividend strategies with a mix of stocks and bonds for a balanced and stable portfolio."
+      },
+      {
+        "name": "Tactical Allocation Mix",
+        "allocation": {
+          "Tactical Asset Allocation Funds": 25,
+          "U.S. Large-Cap Stocks": 30,
+          "International Bonds": 20,
+          "Real Estate Investment Trusts (REITs)": 15,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Utilizes tactical asset allocation funds for active management, paired with a mix of stocks, international bonds, and REITs."
+      },
+      {
+        "name": "ESG and Impact Investing",
+        "allocation": {
+          "ESG Equity ETFs": 30,
+          "Impact Bond Funds": 25,
+          "Real Assets ETFs (Infrastructure, Renewable Energy)": 20,
+          "U.S. Large-Cap Stocks": 15,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Integrates environmental, social, and governance (ESG) principles and impact bonds with real assets and U.S. large-cap stocks."
+      },
+      {
+        "name": "Multi-Asset Income",
+        "allocation": {
+          "Multi-Asset Income Funds": 35,
+          "Global Dividend ETFs": 20,
+          "U.S. Large-Cap Stocks": 25,
+          "Intermediate-Term Bond ETFs": 15,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Focuses on generating income through a mix of multi-asset income funds, global dividends, and a combination of stocks and bonds."
+      },
+      {
+        "name": "Defensive Growth",
+        "allocation": {
+          "Defensive Growth Stocks": 30,
+          "U.S. Large-Cap Growth ETFs": 25,
+          "Municipal Bonds": 25,
+          "Real Estate Investment Trusts (REITs)": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Balances growth and defense with defensive growth stocks, large-cap growth ETFs, municipal bonds, and REITs."
+      },
+      {
+        "name": "High-Quality Factor Mix",
+        "allocation": {
+          "High-Quality Factor ETFs": 35,
+          "International Equity Income Funds": 15,
+          "U.S. Large-Cap Stocks": 30,
+          "Short-Term Corporate Bonds": 15,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Incorporates high-quality factor ETFs with international equity income funds, U.S. large-cap stocks, and short-term corporate bonds."
+      },
+      {
+        "name": "Global Tactical Income",
+        "allocation": {
+          "Global Tactical Income Funds": 25,
+          "Emerging Market Equity ETFs": 20,
+          "Balanced Target-Date Fund": 30,
+          "Intermediate-Term Treasury Bonds": 20,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Utilizes global tactical income funds alongside emerging market equities, a balanced target-date fund, and intermediate-term Treasury bonds."
+      }
+    ]
+  },
+  {
+    "portfolios": [
+      {
+        "name": "Momentum and Quality Mix",
+        "allocation": {
+          "Momentum Factor ETFs": 20,
+          "Quality Dividend Stocks": 30,
+          "Intermediate-Term Bond ETFs": 30,
+          "Global Real Estate Funds": 15,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Blends momentum factor exposure with quality dividend stocks, bonds, and global real estate for a balanced approach."
+      },
+      {
+        "name": "Adaptive Risk Allocation",
+        "allocation": {
+          "Adaptive Asset Allocation Funds": 25,
+          "U.S. Large-Cap Stocks": 25,
+          "International Bonds": 20,
+          "Real Estate Investment Trusts (REITs)": 20,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Utilizes adaptive asset allocation funds for dynamic risk management, paired with a mix of stocks, international bonds, and REITs."
+      },
+      {
+        "name": "Value and Dividend Emphasis",
+        "allocation": {
+          "Value Factor ETFs": 25,
+          "Dividend Growth Stocks": 30,
+          "Intermediate-Term Corporate Bonds": 30,
+          "Global Real Estate Funds": 10,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Incorporates value factor exposure with dividend growth stocks, corporate bonds, and global real estate for a balanced value-oriented portfolio."
+      },
+      {
+        "name": "Quality Income and Emerging Markets",
+        "allocation": {
+          "Quality Dividend ETFs": 30,
+          "Emerging Market Equity Funds": 20,
+          "Intermediate-Term Treasury Bonds": 30,
+          "Real Estate Investment Trusts (REITs)": 15,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Combines quality dividend ETFs with exposure to emerging market equities, Treasury bonds, and REITs for a globally diversified income-focused portfolio."
+      },
+      {
+        "name": "Sustainable Balanced Portfolio",
+        "allocation": {
+          "Sustainable Equity ETFs": 25,
+          "Green Bonds": 25,
+          "Balanced Target-Date Fund": 30,
+          "Global Real Estate Funds": 15,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Emphasizes sustainability with a mix of sustainable equity ETFs, green bonds, a balanced target-date fund, and global real estate."
+      },
+      {
+        "name": "Technology and Innovation Focus",
+        "allocation": {
+          "Technology Sector ETFs": 30,
+          "Innovation ETFs": 25,
+          "Intermediate-Term Corporate Bonds": 25,
+          "Real Estate Investment Trusts (REITs)": 15,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Targets growth and innovation with a focus on technology sector ETFs, innovation-focused ETFs, bonds, and REITs."
+      },
+      {
+        "name": "Low-Correlation Mix",
+        "allocation": {
+          "Low-Correlation Asset ETFs (Gold, Managed Futures)": 25,
+          "U.S. Large-Cap Stocks": 25,
+          "International Bonds": 25,
+          "Real Estate Investment Trusts (REITs)": 15,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Seeks to reduce portfolio volatility with low-correlation assets such as gold and managed futures, paired with stocks, bonds, and REITs."
+      },
+      {
+        "name": "Defensive Sector Diversification",
+        "allocation": {
+          "Defensive Sector ETFs (Healthcare, Consumer Staples)": 30,
+          "Balanced Target-Date Fund": 30,
+          "Intermediate-Term Treasury Bonds": 25,
+          "Global Real Estate Funds": 10,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Allocates to defensive sectors, a balanced target-date fund, Treasury bonds, and global real estate for a diversified defensive approach."
+      },
+      {
+        "name": "Income and Preferred Stock Blend",
+        "allocation": {
+          "Preferred Stocks": 25,
+          "Multi-Asset Income Funds": 30,
+          "U.S. Large-Cap Stocks": 25,
+          "Intermediate-Term Corporate Bonds": 15,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Blends income generation with preferred stocks and multi-asset income funds, along with a mix of stocks and corporate bonds."
+      },
+      {
+        "name": "Defensive Dividend ETF Mix",
+        "allocation": {
+          "Defensive Dividend ETFs": 35,
+          "Global Real Estate Funds": 20,
+          "Intermediate-Term Treasury Bonds": 25,
+          "U.S. Large-Cap Stocks": 15,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Prioritizes income and defense with defensive dividend ETFs, global real estate, Treasury bonds, and U.S. large-cap stocks."
+      }
+    ]
+  },
+  {
+    "portfolios": [
+      {
+        "name": "Tech and Innovation Heavyweight",
+        "allocation": {
+          "U.S. Technology Stocks": 35,
+          "Innovation and Disruption ETFs": 25,
+          "Small-Cap Growth Stocks": 25,
+          "Gold and Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "This portfolio heavily concentrates on technology and innovation, combining U.S. tech stocks with innovation-focused ETFs and small-cap growth stocks."
+      },
+      {
+        "name": "Global Growth and Emerging Markets",
+        "allocation": {
+          "International Growth Stocks": 30,
+          "Emerging Market Equity Funds": 30,
+          "Small-Cap Growth Stocks": 25,
+          "Gold Mining Stocks": 10,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Emphasizes global growth with a focus on emerging market equities, international growth stocks, small-cap growth, and exposure to gold mining."
+      },
+      {
+        "name": "Biotech and Healthcare Innovation",
+        "allocation": {
+          "Biotechnology Stocks": 30,
+          "Healthcare Innovation ETFs": 30,
+          "Small-Cap Growth Stocks": 25,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Targets growth in the biotech and healthcare sectors, combining biotech stocks, healthcare innovation ETFs, small-cap growth stocks, and precious metals."
+      },
+      {
+        "name": "Artificial Intelligence and Robotics Focus",
+        "allocation": {
+          "AI and Robotics ETFs": 35,
+          "Small-Cap Growth Stocks": 25,
+          "Emerging Market Technology Stocks": 20,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Leverages the potential of artificial intelligence and robotics with a focus on related ETFs, complemented by small-cap growth and emerging market technology stocks."
+      },
+      {
+        "name": "E-commerce and Digital Economy",
+        "allocation": {
+          "E-commerce Stocks": 30,
+          "Digital Economy ETFs": 30,
+          "Small-Cap Growth Stocks": 25,
+          "Silver and Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Capitalizes on the digital revolution with a focus on e-commerce stocks, digital economy ETFs, small-cap growth, and exposure to silver and precious metals."
+      },
+      {
+        "name": "Cryptocurrency and Blockchain Emphasis",
+        "allocation": {
+          "Cryptocurrencies (Bitcoin, Ethereum)": 25,
+          "Blockchain Technology ETFs": 30,
+          "Small-Cap Growth Stocks": 25,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Incorporates the potential of cryptocurrencies and blockchain technology with direct exposure to leading cryptocurrencies, blockchain ETFs, small-cap growth, and precious metals."
+      },
+      {
+        "name": "Renewable Energy and Clean Tech",
+        "allocation": {
+          "Renewable Energy Stocks": 35,
+          "Clean Energy ETFs": 25,
+          "Small-Cap Growth Stocks": 20,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Focuses on the transition to a sustainable future, combining renewable energy stocks, clean energy ETFs, small-cap growth, and precious metals."
+      },
+      {
+        "name": "5G and Connectivity Play",
+        "allocation": {
+          "5G Technology Stocks": 30,
+          "Connectivity and Communication ETFs": 30,
+          "Small-Cap Growth Stocks": 25,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 5
+        },
+        "description": "Capitalizes on the growth of 5G technology and connectivity, combining 5G stocks, communication ETFs, small-cap growth, and precious metals."
+      },
+      {
+        "name": "Genomic Revolution and Health Tech",
+        "allocation": {
+          "Genomic Revolution ETFs": 35,
+          "Health Technology Stocks": 25,
+          "Small-Cap Growth Stocks": 20,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Invests in the transformative potential of genomics and health technology, combining genomic revolution ETFs, health tech stocks, small-cap growth, and precious metals."
+      },
+      {
+        "name": "Space Exploration and Aerospace",
+        "allocation": {
+          "Space Exploration Stocks": 30,
+          "Aerospace and Defense ETFs": 25,
+          "Small-Cap Growth Stocks": 25,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Positions for the future of space exploration and aerospace."
+      }
+    ]
+  },  
+  {
+    "portfolios": [
+      {
+        "name": "Cybersecurity and Tech Innovators",
+        "allocation": {
+          "Cybersecurity Stocks": 30,
+          "Technology Innovators ETFs": 30,
+          "Small-Cap Growth Stocks": 20,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Targets the growing demand for cybersecurity with a focus on cybersecurity stocks, technology innovators ETFs, small-cap growth, and precious metals."
+      },
+      {
+        "name": "Electric Vehicles and Clean Transportation",
+        "allocation": {
+          "Electric Vehicle Stocks": 35,
+          "Clean Transportation ETFs": 25,
+          "Small-Cap Growth Stocks": 20,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Capitalizes on the shift to electric vehicles and clean transportation, combining electric vehicle stocks, clean transportation ETFs, small-cap growth, and precious metals."
+      },
+      {
+        "name": "High Beta and Momentum",
+        "allocation": {
+          "High Beta Stocks": 30,
+          "Momentum Factor ETFs": 30,
+          "Small-Cap Growth Stocks": 20,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Seeks high returns with an emphasis on high beta stocks, momentum factor ETFs, small-cap growth, and precious metals."
+      },
+      {
+        "name": "Disruptive Technologies Mix",
+        "allocation": {
+          "Disruptive Technologies ETFs": 30,
+          "Emerging Market Technology Stocks": 25,
+          "Small-Cap Growth Stocks": 25,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Invests in various disruptive technologies with a focus on disruptive technologies ETFs, emerging market technology stocks, small-cap growth, and precious metals."
+      },
+      {
+        "name": "Health and Wellness Innovation",
+        "allocation": {
+          "Health and Wellness Innovation ETFs": 35,
+          "Biopharmaceutical Stocks": 25,
+          "Small-Cap Growth Stocks": 20,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Positions for growth in health and wellness innovation with a blend of ETFs, biopharmaceutical stocks, small-cap growth, and precious metals."
+      },
+      {
+        "name": "Fintech and Digital Finance",
+        "allocation": {
+          "Fintech Stocks": 30,
+          "Digital Finance ETFs": 25,
+          "Small-Cap Growth Stocks": 20,
+          "Cryptocurrencies (Bitcoin, Ethereum)": 10,
+          "Cash or Cash Equivalents": 15
+        },
+        "description": "Capitalizes on the digital transformation of finance with a focus on fintech stocks, digital finance ETFs, small-cap growth, and cryptocurrencies."
+      },
+      {
+        "name": "Nanotechnology and Materials Science",
+        "allocation": {
+          "Nanotechnology Stocks": 35,
+          "Materials Science ETFs": 25,
+          "Small-Cap Growth Stocks": 20,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Emphasizes innovation in nanotechnology and materials science with a focus on nanotechnology stocks, materials science ETFs, small-cap growth, and precious metals."
+      },
+      {
+        "name": "Gaming and Esports Focus",
+        "allocation": {
+          "Gaming and Esports Stocks": 30,
+          "Esports and Digital Entertainment ETFs": 30,
+          "Small-Cap Growth Stocks": 20,
+          "Cryptocurrencies (Bitcoin, Ethereum)": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Capitalizes on the growing gaming and esports industry with a blend of gaming stocks, esports ETFs, small-cap growth, and cryptocurrencies."
+      },
+      {
+        "name": "3D Printing and Advanced Manufacturing",
+        "allocation": {
+          "3D Printing Stocks": 35,
+          "Advanced Manufacturing ETFs": 25,
+          "Small-Cap Growth Stocks": 20,
+          "Precious Metals ETFs": 10,
+          "Cash or Cash Equivalents": 10
+        },
+        "description": "Focuses on the future of manufacturing with an emphasis on 3D printing stocks, advanced manufacturing ETFs, small-cap growth, and precious metals."
+      },
+      {
+        "name": "Quantum Computing and Technology",
+        "allocation": {
+          "Quantum Computing Stocks": 30,
+          "Technology Innovation ETFs": 25,
+          "Small-Cap Growth Stocks": 20,
+          "Cryptocurrencies (Bitcoin, Ethereum)": 10,
+          "Cash or Cash Equivalents": 15
+        },
+        "description": "Invests in the cutting-edge field of quantum computing with a focus on quantum computing stocks, technology innovation ETFs, small-cap growth, and cryptocurrencies."
+      }
+    ]
+  }  
+]
