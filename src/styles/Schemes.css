@@ -1,0 +1,16 @@
+#display {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 0rem;
+}
+
+.containerClass {
+    width: 100rem;
+    position: relative;
+    margin: auto;
+}
+
+.graphClass {
+    width: 72rem;
+    margin-inline: auto;
+}

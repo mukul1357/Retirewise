@@ -1,0 +1,45 @@
+.imgGoals img {
+    width: 100%;
+    height: 86%;
+    border-radius: 2.5rem;
+}
+
+.imgGoals {
+    padding: 6rem;
+    margin-right: 2rem;
+}
+
+.service {
+    /* --tw-bg-opacity: 1 !important;
+    background-color: rgb(17 24 39/var(--tw-bg-opacity)) !important; */
+}
+
+.buttonClass {
+    line-height: 1rem;
+    font-size: 1rem;
+}
+
+.labelClass {
+    display: flex;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.arrowClass {
+    width: 66rem;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+bottom: 1rem;
+padding-right: 2rem;
+padding-left: 2rem;
+}
+
+.catContainer {
+    width: 64rem;
+    padding-right: 4rem;
+}
+
+.arrowButton {
+    /* width: 7.5rem; */
+}
