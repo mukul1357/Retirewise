@@ -49,5 +49,16 @@ The app will be accessible at `http://localhost:5000`.
 
 Make sure to replace `<your-api-key>` with your actual OpenAI API key.
 
+## Running the React App (Front-end)
+
+1. Stay in the parent folder.
+2. Run the following commands in sequence to start the React app:
+
+```bash
+npm i
+npm start
+```
+3. Open any browser and access the url `http://localhost:3000`.
+
 For any questions or issues, feel free to reach out.
 
